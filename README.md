@@ -19,7 +19,7 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) ｜ Rust中的宏编程
 
 ## 视频 Videos
-[Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) ｜ Rust知识点深入
+[Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) ｜ Rust特性深入
 
 ## 实战 Project
 [PingCAP talent-plan](https://github.com/pingcap/talent-plan) ｜ PingCAP的Rust系列教程
