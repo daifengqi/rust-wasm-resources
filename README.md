@@ -10,6 +10,8 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html) ｜ Rust参考手册
 
+[The Rust Standard Library](https://doc.rust-lang.org/std/) ｜ Rust标准库
+
 
 ### 进阶篇 level 1
 [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) | Rust中的异步编程
