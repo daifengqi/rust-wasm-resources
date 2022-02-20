@@ -25,9 +25,20 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 [PingCAP talent-plan](https://github.com/pingcap/talent-plan) ｜ PingCAP的Rust系列教程
 
 ## 知名项目 Known
+[Tokio - an asynchronous Rust runtime](https://github.com/tokio-rs/tokio)
+
 [Rocket - a web framework for Rust](https://github.com/SergioBenitez/Rocket/tree/v0.5-rc)
 
-[Tokio - an asynchronous Rust runtime](https://github.com/tokio-rs/tokio)
+[Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
+
+### WASM runtime
+[wasmer](https://github.com/wasmerio/wasmer)
+
+[wasmtime](https://github.com/bytecodealliance/wasmtime)
+
+#### some guides
+[1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/), [2](https://www.lirui.tech/post/2022/bf75512a88f1.html)
+
 
 
 *... to be continued ｜ 持续更新中*
