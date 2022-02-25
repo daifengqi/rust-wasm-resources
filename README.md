@@ -38,6 +38,8 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 ## 知名项目 Known
 [Tokio - an asynchronous Rust runtime](https://github.com/tokio-rs/tokio)
 
+[mio - non-blocking APIs and event notification for building high performance I/O apps](https://github.com/tokio-rs/mio)
+
 [Rocket - a web framework for Rust](https://github.com/SergioBenitez/Rocket/tree/v0.5-rc)
 
 [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
