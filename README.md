@@ -33,6 +33,8 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 ## 实战 Project
 [PingCAP talent-plan](https://github.com/pingcap/talent-plan) ｜ PingCAP的Rust系列教程
 
+[mini-redis](https://github.com/tokio-rs/mini-redis) ｜ Incomplete Redis client and server implementation using Tokio which is helpful to understand async/await. 迷你Redis实现。
+
 ## 知名项目 Known
 [Tokio - an asynchronous Rust runtime](https://github.com/tokio-rs/tokio)
 
