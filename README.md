@@ -16,7 +16,7 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 ### 高级篇 level 2
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) ｜ Rust秘典：走近unsafe
 
-### 参考篇
+### 参考篇 References
 [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html) ｜ Rust参考手册
 
 [The Rust Standard Library](https://doc.rust-lang.org/std/) ｜ Rust标准库
@@ -26,6 +26,14 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 [The rustc book](https://doc.bccnsoft.com/docs/rust-1.36.0-docs-html/rustc/print.html#what-is-rustc) ｜ rustc: rust linker
 
 [The Cargo Book](https://doc.rust-lang.org/cargo/) ｜ Cargo: package manager
+
+### 工具篇 Tools
+[Introducing MIR](https://blog.rust-lang.org/2016/04/19/MIR.html) ｜ Mid-Level IR
+
+[cargo-expand](https://github.com/dtolnay/cargo-expand) ｜ Subcommand to show result of macro expansion
+
+[rust-repl](https://replit.com/new/rust) ｜ Read–eval–print loop of Rust
+
 
 ## 视频 Videos
 [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) ｜ Rust特性深入
