@@ -19,6 +19,10 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 ### 参考篇 References
 [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html) ｜ Rust参考手册
 
+- missing part reference
+- - [memory model (cpp reference)](https://en.cppreference.com/w/cpp/language/memory_model)
+- - [memory order (cpp reference)](https://en.cppreference.com/w/c/atomic/memory_order)
+
 [The Rust Standard Library](https://doc.rust-lang.org/std/) ｜ Rust标准库
 
 [The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html) ｜ Rust RFC汇总
