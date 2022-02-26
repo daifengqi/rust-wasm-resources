@@ -41,6 +41,7 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 ## 视频 Videos
 [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) ｜ Rust特性深入
+[Concurrent Programming in Rust](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ9j40DJNlsem2qAGoFbfwb4) ｜ Rust并发编程
 
 ## 实战 Project
 [PingCAP talent-plan](https://github.com/pingcap/talent-plan) ｜ PingCAP的Rust系列教程
