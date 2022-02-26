@@ -21,7 +21,7 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 [The Rust Standard Library](https://doc.rust-lang.org/std/) ｜ Rust标准库
 
-[Rust RFCs](https://github.com/rust-lang/rfcs) ｜ Rust的RFC
+[The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html) ｜ Rust RFC汇总
 
 [The rustc book](https://doc.bccnsoft.com/docs/rust-1.36.0-docs-html/rustc/print.html#what-is-rustc) ｜ rustc: rust linker
 
