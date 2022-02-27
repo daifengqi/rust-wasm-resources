@@ -13,6 +13,8 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) ｜ Rust中的宏编程
 
+[rust-faq](https://github.com/dtolnay/rust-faq) ｜ Rust问与答
+
 ### 高级篇 level 2
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) ｜ Rust秘典：走近unsafe
 
