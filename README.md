@@ -60,6 +60,9 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
 
+## 实体书籍 Entities
+- *WebAssembly: The Definitive Guide*
+
 ### WASM runtime
 [wasmer](https://github.com/wasmerio/wasmer)
 
