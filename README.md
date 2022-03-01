@@ -79,6 +79,9 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 
 [W3C draft: wasn modules](https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration)
 
+### 论文 Paper
+[tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
+
 #### some guides
 [1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/), [2](https://www.lirui.tech/post/2022/bf75512a88f1.html)
 
