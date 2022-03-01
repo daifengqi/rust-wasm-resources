@@ -73,6 +73,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 [wasmtime](https://github.com/bytecodealliance/wasmtime)
 
 ### 规范 Spec
+[WebAssembly Official Repos](https://github.com/WebAssembly)
+
 [W3C draft: wasm interface](https://webassembly.github.io/spec/js-api/)
 
 [W3C draft: wasn modules](https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration)
