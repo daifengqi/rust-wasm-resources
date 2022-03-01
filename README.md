@@ -74,6 +74,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 
 [wasmtime](https://github.com/bytecodealliance/wasmtime)
 
+[wasmtime-guide](https://docs.wasmtime.dev/)
+
 ## 规范 Spec
 [WebAssembly Official Repos](https://github.com/WebAssembly)
 
