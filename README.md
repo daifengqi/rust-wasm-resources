@@ -92,7 +92,9 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 [egui](https://github.com/emilk/egui) ｜ amazing GUI creator/pure rust/web & native/WASM
 
 ### some guides
-[1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/), [2](https://www.lirui.tech/post/2022/bf75512a88f1.html)
+[1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/),
+[2](https://www.lirui.tech/post/2022/bf75512a88f1.html), 
+[3](https://training.linuxfoundation.org/blog/how-wasi-makes-containerization-more-efficient/#:~:text=WASI%20on%20servers%2C%20or%20REPLACING,of%20the%20host%20operating%20system.)
 
 
 
