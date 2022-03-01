@@ -69,25 +69,25 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 ## 实体书籍 Entities
 - *WebAssembly: The Definitive Guide*
 
-### WASM runtime
+## WASM runtime
 [wasmer](https://github.com/wasmerio/wasmer)
 
 [wasmtime](https://github.com/bytecodealliance/wasmtime)
 
-### 规范 Spec
+## 规范 Spec
 [WebAssembly Official Repos](https://github.com/WebAssembly)
 
 [W3C draft: wasm interface](https://webassembly.github.io/spec/js-api/)
 
 [W3C draft: wasn modules](https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration)
 
-### 论文 Paper
+## 论文 Paper
 [tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
 
-### 项目 Repo
+## 项目 Repo
 [The `wasm-bindgen` Guide](https://rustwasm.github.io/wasm-bindgen/introduction.html)
 
-#### some guides
+### some guides
 [1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/), [2](https://www.lirui.tech/post/2022/bf75512a88f1.html)
 
 
