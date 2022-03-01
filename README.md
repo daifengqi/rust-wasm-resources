@@ -1,5 +1,7 @@
-# recommended-rust-resources
-Recommended rust resources. ｜ 推荐的 Rust 学习资源。
+# rust-wasm-resources
+Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
+
+# Rust
 
 ## 开源书籍 Books
 
@@ -60,6 +62,8 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 
 [Yew - Rust / Wasm framework for building client web apps](https://github.com/yewstack/yew)
 
+# WASM
+
 ## 实体书籍 Entities
 - *WebAssembly: The Definitive Guide*
 
@@ -67,6 +71,11 @@ Recommended rust resources. ｜ 推荐的 Rust 学习资源。
 [wasmer](https://github.com/wasmerio/wasmer)
 
 [wasmtime](https://github.com/bytecodealliance/wasmtime)
+
+### 规范 Spec
+[W3C draft: wasm interface](https://webassembly.github.io/spec/js-api/)
+
+[W3C draft: wasn modules](https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration)
 
 #### some guides
 [1](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/), [2](https://www.lirui.tech/post/2022/bf75512a88f1.html)
