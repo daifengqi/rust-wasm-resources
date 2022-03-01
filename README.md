@@ -35,6 +35,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 
 [The Cargo Book](https://doc.rust-lang.org/cargo/) ｜ Cargo: package manager
 
+[The rustup Book](https://rust-lang.github.io/rustup/)
+
 ### 工具篇 Tools
 [Introducing MIR](https://blog.rust-lang.org/2016/04/19/MIR.html) ｜ Mid-Level IR
 
