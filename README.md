@@ -20,6 +20,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 ### 高级篇 level 2
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) ｜ Rust秘典：走近unsafe
 
+[Rust magazine](https://rustmagazine.github.io/rust_magazine_2021/index.html) ｜ Rust开源杂志（Rust精选）
+
 ### 参考篇 References
 [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html) ｜ Rust参考手册
 
