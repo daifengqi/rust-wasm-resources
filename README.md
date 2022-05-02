@@ -10,6 +10,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/) ｜ 通过例子学Rust
 
+[r-core](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter0/0intro.html) ｜ Rust手写操作系统（清华课程）
+
 ### 进阶篇 level 1
 [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) | Rust中的异步编程
 
