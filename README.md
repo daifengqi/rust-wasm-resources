@@ -70,6 +70,10 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 
 # WASM
 
+[WEBASSEMBLY 2.0 FIRST PUBLIC WORKING DRAFTS](https://www.w3.org/blog/news/archives/9509)
+
+[WASI](https://wasi.dev/)
+
 ## 实体书籍 Entities
 - *WebAssembly: The Definitive Guide*
 
@@ -86,6 +90,8 @@ Rust and WebAssembly resources ｜ Rust 和 WebAssembly 的相关资源
 [W3C draft: wasm interface](https://webassembly.github.io/spec/js-api/)
 
 [W3C draft: wasn modules](https://webassembly.github.io/esm-integration/js-api/index.html#esm-integration)
+
+[Runtime Structure](https://webassembly.github.io/spec/core/exec/runtime.html#syntax-store)
 
 ## 论文 Paper
 [tensorflow.js](https://arxiv.org/pdf/1901.05350.pdf)
